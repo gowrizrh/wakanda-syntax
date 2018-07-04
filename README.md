@@ -1,3 +1,7 @@
 # Wakanda Forever
+Wakanda color scheme syntax plugin for atom.
 
-nothing to do with wakanda, it sounded cool so here it is.
+## Preview
+
+#### PHP
+![wakanda preview](assets/preview.png)
